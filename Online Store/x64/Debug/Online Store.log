@@ -1,0 +1,29 @@
+﻿  Online Store.cpp
+D:\I H\MY_STUDY\SU\1Y\2T\Programming\ابتهاج\HW\Project\Online Store\Online Store\UsersManagement.h(13,15): warning C4091: 'extern ': ignored on left of 'UsersInfo' when no variable is declared
+  (compiling source file 'Online%20Store.cpp')
+  
+D:\I H\MY_STUDY\SU\1Y\2T\Programming\ابتهاج\HW\Project\Online Store\Online Store\ProductsManagement.h(8,15): warning C4091: 'extern ': ignored on left of 'ProductsInfo' when no variable is declared
+  (compiling source file 'Online%20Store.cpp')
+  
+D:\I H\MY_STUDY\SU\1Y\2T\Programming\ابتهاج\HW\Project\Online Store\Online Store\ProductsManagement.h(28,15): warning C4141: 'inline': used more than once
+  (compiling source file 'Online%20Store.cpp')
+  
+  ProductsManagement.cpp
+D:\I H\MY_STUDY\SU\1Y\2T\Programming\ابتهاج\HW\Project\Online Store\Online Store\UsersManagement.h(13,15): warning C4091: 'extern ': ignored on left of 'UsersInfo' when no variable is declared
+  (compiling source file 'ProductsManagement.cpp')
+  
+D:\I H\MY_STUDY\SU\1Y\2T\Programming\ابتهاج\HW\Project\Online Store\Online Store\ProductsManagement.h(8,15): warning C4091: 'extern ': ignored on left of 'ProductsInfo' when no variable is declared
+  (compiling source file 'ProductsManagement.cpp')
+  
+D:\I H\MY_STUDY\SU\1Y\2T\Programming\ابتهاج\HW\Project\Online Store\Online Store\ProductsManagement.h(28,15): warning C4141: 'inline': used more than once
+  (compiling source file 'ProductsManagement.cpp')
+  
+D:\I H\MY_STUDY\SU\1Y\2T\Programming\ابتهاج\HW\Project\Online Store\Online Store\ProductsManagement.cpp(155,23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\I H\MY_STUDY\SU\1Y\2T\Programming\ابتهاج\HW\Project\Online Store\Online Store\ProductsManagement.cpp(208,32): warning C4244: '=': conversion from 'const double' to 'unsigned int', possible loss of data
+  UsersManagement.cpp
+D:\I H\MY_STUDY\SU\1Y\2T\Programming\ابتهاج\HW\Project\Online Store\Online Store\UsersManagement.h(13,15): warning C4091: 'extern ': ignored on left of 'UsersInfo' when no variable is declared
+  (compiling source file 'UsersManagement.cpp')
+  
+D:\I H\MY_STUDY\SU\1Y\2T\Programming\ابتهاج\HW\Project\Online Store\Online Store\UsersManagement.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Online Store.vcxproj -> D:\I H\MY_STUDY\SU\1Y\2T\Programming\ابتهاج\HW\Project\Online Store\x64\Debug\Online Store.exe
