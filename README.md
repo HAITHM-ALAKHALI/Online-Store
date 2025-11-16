@@ -21,3 +21,8 @@ This project implements the backend of an online store using **C++**, using cust
 1. Clone the repository:  
    ```bash
    git clone https://github.com/HAITHM-ALAKHALI/Online-Store.git
+2. Open the project in a C++ IDE (Visual Studio, Code::Blocks, etc.)
+
+3. Compile all source files, including custom libraries
+
+4. Run the executable to start the command-line interface
